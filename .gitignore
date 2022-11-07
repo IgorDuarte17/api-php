@@ -1,0 +1,13 @@
+# Git Files
+.git
+
+# Visual Studio Files
+source/.vs/
+.vs/
+/.vscode
+
+# Dependecies
+/vendor
+
+# Docker
+/.data

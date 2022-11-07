@@ -1,0 +1,17 @@
+{
+    "name": "camps-teste",
+    "description": "API com PHP puro",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Duarte",
+            "email": "igor.santosduarte@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
